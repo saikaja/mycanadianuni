@@ -1836,7 +1836,7 @@ var gradlinks = {
     UNipissingMastersofEnvironmentalScienceStudies:"https://www.nipissingu.ca/academics/school-graduate-studies/masters-environmental-science-studies",
     UNipissingMasterofScienceinKinesiology:"https://www.nipissingu.ca/academics/school-graduate-studies/master-science-kinesiology",
     UNipissingMasterofScienceinMathematics:"https://www.nipissingu.ca/academics/school-graduate-studies/master-science-mathematics",
-    UNipissingPhDinEducationEducationalSustainability:​"https://www.nipissingu.ca/academics/school-graduate-studies/phd-education",
+    UNipissingPhDinEducationEducationalSustainability:"https://www.nipissingu.ca/academics/school-graduate-studies/phd-education",
     OCADUContemporaryArtDesignandNewMediaArtHistoriesMA:"https://www.ocadu.ca/academics/graduate-studies/master-cadn",
     OCADUCriticismCuratorialPracticeMFA:"https://www.ocadu.ca/academics/graduate-studies/criticism-and-curatorial-practice",
     OCADUDesignforHealthMDes:"https://www.ocadu.ca/academics/graduate-studies/design-for-health",
